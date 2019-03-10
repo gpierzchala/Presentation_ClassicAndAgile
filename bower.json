@@ -5,18 +5,12 @@
     "js/reveal.js",
     "css/reveal.css"
   ],
-  "homepage": "http://revealjs.com",
-  "license": "MIT",
-  "description": "The HTML Presentation Framework",
-  "authors": [
-    "Hakim El Hattab <hakim.elhattab@gmail.com>"
-  ],
+  "homepage": "",
+  "license": "",
+  "description": "",
+  "authors": [],
   "dependencies": {
     "headjs": "~1.0.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
   },
   "ignore": [
     "**/.*",
